@@ -46,14 +46,6 @@
 > signals, compresses history, and improves profiles and skills between
 > sessions.
 
-<br>
-<div align="right">
-
-[![](https://img.shields.io/badge/-Back_to_top-gray?style=flat-square)](#readme-top)
-
-</div>
-
-
 ## Why Ever OS
 
 EverOS is a Python library and local-first memory runtime for agents and
@@ -94,14 +86,6 @@ for fast retrieval and self-evolving reuse.
 <td>❌ Usually app, namespace, tenant, thread, or graph scoped</td>
 </tr>
 </table>
-
-<br>
-<div align="right">
-
-[![](https://img.shields.io/badge/-Back_to_top-gray?style=flat-square)](#readme-top)
-
-</div>
-
 
 ## Quick Start
 
